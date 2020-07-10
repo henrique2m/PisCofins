@@ -26,4 +26,4 @@ PisCofins é uma ferramenta desenvolvida em Python, tendo como objetivo auxiliar
 ![Tela - 4](https://raw.githubusercontent.com/henrique2m/PisCofins/master/assets/screens/screen4.png)
 
 ## License
-MIT © [Henrique Moeria](https://github.com/henrique2m)
+MIT © [Henrique Moreira](https://github.com/henrique2m)
